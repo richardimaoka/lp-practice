@@ -309,7 +309,7 @@ const LandingPage: React.FC = () => {
                 <li>✅ Standard Support</li>
                 <li>❌ Advanced Reporting</li>
               </ul>
-              <button className="w-full bg-gradient-to-r from-indigo-700 to-indigo-500 transition-transform duration-200 ease-in-out hover:-translate-y-0.5 hover:shadow-md text-white font-semibold py-3 px-8 rounded-lg shadow-md hover:shadow-xl focus:outline-none">
+              <button className="w-full bg-gradient-to-r from-indigo-700 to-indigo-500 transition-transform duration-200 ease-in-out hover:-translate-y-0.5 hover:shadow-md text-white font-semibold py-3 px-8 rounded-lg shadow-md focus:outline-none">
                 Start Free Trial
               </button>
             </div>
@@ -346,7 +346,7 @@ const LandingPage: React.FC = () => {
                 <li>✅ Custom Integrations</li>
                 <li>✅ 24/7 Phone Support</li>
               </ul>
-              <button className="w-full bg-gradient-to-r from-indigo-700 to-indigo-500 transition-transform duration-200 ease-in-out hover:-translate-y-0.5 hover:shadow-md text-white font-semibold py-3 px-8 rounded-lg shadow-md hover:shadow-xl focus:outline-none">
+              <button className="w-full bg-gradient-to-r from-indigo-700 to-indigo-500 transition-transform duration-200 ease-in-out hover:-translate-y-0.5 hover:shadow-md text-white font-semibold py-3 px-8 rounded-lg shadow-md focus:outline-none">
                 Contact Sales
               </button>
             </div>
